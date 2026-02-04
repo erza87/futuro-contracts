@@ -1,5 +1,7 @@
 {
-    "chain": "polygon-amoy",
-    "MockUSDC": "0xa3d0189e6b0410ec6688def1e56d9b135636c312",
-    "FuturoVault": "0x5155c3c0d314aa3f655ceeda1d3c0cf9f7ec965a"
+  "chain": "polygon-amoy",
+  "MockUSDC": "0xe1bc941e7ac461a86ef79732842d66fffe47f74a",
+  "FuturoVault": "0x61ea713402736a277676559b8ded299890e7125c",
+  "deployer": "0x8ca0da99419058a2ff0c4e759e17f5d550cd43ef",
+  "timestamp": "2026-02-04T08:03:36.685Z"
 }
